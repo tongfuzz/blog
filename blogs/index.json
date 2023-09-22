@@ -1,0 +1,255 @@
+{
+    "blogs": [
+        {
+            "fileName": "kotlin项目时用ARouter，配置生成doc时出错的解决办法.md",
+            "title": "kotlin项目时用ARouter，配置生成doc时出错的解决办法",
+            "subtitle": "kotlin项目时用ARouter，配置生成doc时出错的解决办法",
+            "createDate": "2022-11-22",
+            "updateDate": "2022-11-22",
+            "tags": "kotlin,ARouter,问题记录",
+            "imagePath": "img/kotlin项目时用ARouter，配置生成doc时出错的解决办法"
+        },
+        {
+            "fileName": "Kotlin中的Lambda表达式内存泄漏问题.md",
+            "title": "Kotlin中的Lambda表达式内存泄漏问题",
+            "subtitle": "Kotlin中的Lambda表达式内存泄漏问题",
+            "createDate": "2022-11-16",
+            "updateDate": "2022-11-16",
+            "tags": "kotlin,问题记录",
+            "imagePath": "img/Kotlin中的Lambda表达式内存泄漏问题"
+        },
+        {
+            "fileName": "android uiautomatorviewer工具在mac m1无法启动的问题.md",
+            "title": "android uiautomatorviewer工具在mac m1无法启动的问题",
+            "subtitle": "android uiautomatorviewer工具在mac m1无法启动的问题",
+            "createDate": "2022-11-16",
+            "updateDate": "2022-11-16",
+            "tags": "Mac M1,uiautomatorviewer,问题记录",
+            "imagePath": "img/android uiautomatorviewer工具在mac m1无法启动的问题"
+        },
+        {
+            "fileName": "AsyncTask.md",
+            "title": "AsyncTask源码分析",
+            "subtitle": "AsyncTask是我们经常用来执行异步任务时使用到的类，它让我们可以在子线程中执行一些操作，并且在UI线程上发送我们执行的结果，是我们更方便的进行子线程与主线程之间的交互，AsyncTask一般用来执行一些耗时较短的操作（一般可能就几秒钟），如果需要执行耗时时间较长的操作，还是建议使用ThreadPoolExecutor和FutureTask。",
+            "createDate": "2022-11-16",
+            "updateDate": "2022-11-16",
+            "tags": "Android,源码分析",
+            "imagePath": "img/AsyncTask"
+        },
+        {
+            "fileName": "服务部署.md",
+            "title": "前后端服务部署",
+            "subtitle": "一直以来想了解一下服务部署的步骤，前段时间使用新用户优惠买了腾讯云的服务器，将以前用来学习的java及vue项目部署到了服务器上，此篇文章用来记录部署的过程",
+            "createDate": "2023-07-12",
+            "updateDate": "2023-08-04",
+            "tags": "Java,Vue,MySQL,服务部署",
+            "imagePath": "img/服务部署"
+        },
+        {
+            "fileName": "WebView<Input>标签不起作用的问题.md",
+            "title": "WebView<Input>标签不起作用的问题",
+            "subtitle": "WebView<Input>标签不起作用的问题",
+            "createDate": "2022-11-16",
+            "updateDate": "2022-11-16",
+            "tags": "Android,WebView,问题记录",
+            "imagePath": "img/WebView<Input>标签不起作用的问题"
+        },
+        {
+            "fileName": "shell脚本.md",
+            "title": "shell脚本",
+            "subtitle": "shell脚本使用方法记录",
+            "createDate": "2022-11-16",
+            "updateDate": "2023-09-15",
+            "tags": "shell脚本",
+            "imagePath": "img/shell脚本"
+        },
+        {
+            "fileName": "view的绘制机制.md",
+            "title": "view的绘制机制",
+            "subtitle": "分析View的layout,measure,draw过程",
+            "createDate": "2022-11-16",
+            "updateDate": "2022-11-16",
+            "tags": "Android,源码分析",
+            "imagePath": "img/view的绘制机制"
+        },
+        {
+            "fileName": "gradle调试设置.md",
+            "title": "gradle调试设置",
+            "subtitle": "gradle调试设置",
+            "createDate": "2022-11-16",
+            "updateDate": "2022-11-16",
+            "imagePath": "img/gradle调试设置"
+        },
+        {
+            "fileName": "Kotlin 知识总结.md",
+            "title": "Kotlin 知识总结",
+            "subtitle": "记录kotlin使用过程中的一些知识点，以便于自己查漏补缺",
+            "createDate": "2022-11-16",
+            "updateDate": "2022-11-16",
+            "tags": "Kotlin",
+            "imagePath": "img/Kotlin 知识总结"
+        },
+        {
+            "fileName": "ijkplayer编译.md",
+            "title": "ijkplayer编译",
+            "subtitle": "ijkplayer编译",
+            "createDate": "2023-09-12",
+            "updateDate": "2023-09-12",
+            "tags": "Android,IJKplayer",
+            "imagePath": "img/ijkplayer编译"
+        },
+        {
+            "fileName": "md语法.md",
+            "title": "markdown的语法记录",
+            "subtitle": "markdown的语法记录",
+            "createDate": "2022-11-16",
+            "updateDate": "2023-02-24",
+            "tags": "markdown",
+            "imagePath": "img/md语法"
+        },
+        {
+            "fileName": "线程池执行流程分析.md",
+            "title": "线程池执行流程分析",
+            "subtitle": "最近在看AsyncTask源码时看到其中使用到了线程池，虽然以前分析过线程池的源码，但是由于年代久远，有部分内容已经忘记，所以重新分析一下源码，特此记录，以防忘记",
+            "createDate": "2022-11-16",
+            "updateDate": "2022-11-16",
+            "tags": "Java,ThreadPool,源码分析",
+            "imagePath": "img/线程池执行流程分析"
+        },
+        {
+            "fileName": "gradle由4.2.1升级到7.2.2过程中遇到的问题.md",
+            "title": "gradle由4.2.1升级到7.2.2过程中遇到的问题",
+            "subtitle": "近期由于项目开发需要，打算接入React Native进行混合开发，由于 React Native 新版本(0.71.2)默认使用的 android gradle 插件版本为 7.2.2，而原生项目依然使用的是 4.2.1 版本，本着用新不用旧的原则，打算对原生项目进行gradle插件的升级，特此记录升级过程中遇到的问题",
+            "createDate": "2023-02-20",
+            "updateDate": "2023-03-08",
+            "tags": "Android,React Native,Gradle,问题记录",
+            "imagePath": "img/gradle由4.2.1升级到7.2.2过程中遇到的问题"
+        },
+        {
+            "fileName": "Android apk打包过程.md",
+            "title": "Android apk打包过程",
+            "subtitle": "Android apk打包过程",
+            "createDate": "2022-11-16",
+            "updateDate": "2022-11-16",
+            "tags": "Android,APK打包",
+            "imagePath": "img/Android apk打包过程"
+        },
+        {
+            "fileName": "hanlder消息传递机制.md",
+            "title": "hanlder消息传递机制",
+            "subtitle": "Handler 是我们经常使用的一个类，我们可以用它来进行线程间的通信，也可以用它来执行延时任务等。当我们创建一个新的 Handler 对象时，会把它和创建它的线程以及线程中的消息队列进行绑定，这样它就可以传递消息和任务给线程中的消息队列，并且在消息队列取出这个消息时执行它",
+            "createDate": "2022-11-16",
+            "updateDate": "2022-11-16",
+            "tags": "Android,Handler,源码分析",
+            "imagePath": "img/hanlder消息传递机制"
+        },
+        {
+            "fileName": "linux常见命令.md",
+            "title": "linux常见命令",
+            "subtitle": "记录linux常用命令",
+            "createDate": "2023-07-12",
+            "updateDate": "2023-07-12",
+            "tags": "linux",
+            "imagePath": "img/linux常见命令"
+        },
+        {
+            "fileName": "targetsdk升级记录.md",
+            "title": "targetsdk升级记录",
+            "subtitle": "targetsdk升级记录",
+            "createDate": "2023-09-12",
+            "updateDate": "2023-09-12",
+            "tags": "Android,AndroidSDK",
+            "imagePath": "img/targetsdk升级记录"
+        },
+        {
+            "fileName": "gradle buildSrc引入gradle插件时报错.md",
+            "title": "buildSrc引入gradle插件时报错",
+            "subtitle": "buildSrc引入 android gradle插件时报错 Plugin request for plugin already on the classpath must not include a version",
+            "createDate": "2022-11-16",
+            "updateDate": "2022-11-16",
+            "tags": "Android,Gradle,问题记录",
+            "imagePath": "img/gradle buildSrc引入gradle插件时报错"
+        },
+        {
+            "fileName": "git命令.md",
+            "title": "git命令",
+            "subtitle": "git命令",
+            "createDate": "2022-11-16",
+            "updateDate": "2023-03-06",
+            "imagePath": "img/git命令"
+        },
+        {
+            "fileName": "adb命令.md",
+            "title": "adb命令",
+            "subtitle": "adb命令记录",
+            "createDate": "2020-9-15",
+            "updateDate": "2023-8-12",
+            "tags": "Android,ADB",
+            "imagePath": ""
+        },
+        {
+            "fileName": "Flow.distinctUntilChanged()失效原因排查.md",
+            "title": "Flow.distinctUntilChanged()失效原因排查",
+            "subtitle": "在使用kotlin flow的时候经常会使用到distinctUntilChanged方法来过滤相同的数据,可是在使用的过程中却发现并为生效,排查许久发现是定义数据类时将data class定义为了class，导致了此问题的发生",
+            "createDate": "2023-03-02",
+            "updateDate": "2023-03-02",
+            "tags": "Kotlin,问题记录",
+            "imagePath": "img/Flow.distinctUntilChanged()失效原因排查"
+        },
+        {
+            "fileName": "ffmpeg命令.md",
+            "title": "ffmpeg命令",
+            "subtitle": "ffmpeg命令使用记录",
+            "createDate": "2021-9-15",
+            "updateDate": "2023-8-12",
+            "tags": "音视频,ffmpeg",
+            "imagePath": "/img/ffmpeg命令"
+        },
+        {
+            "fileName": "命令行命令.md",
+            "title": "命令行命令",
+            "subtitle": "命令行命令记录",
+            "createDate": "2022-11-16",
+            "updateDate": "2022-11-16",
+            "tags": "shell",
+            "imagePath": "img/命令行命令"
+        },
+        {
+            "fileName": "view的事件传递机制.md",
+            "title": "view的事件传递机制",
+            "subtitle": "view的事件传递机制",
+            "createDate": "2022-11-16",
+            "updateDate": "2022-11-16",
+            "tags": "Android,源码分析",
+            "imagePath": "img/view的事件传递机制"
+        },
+        {
+            "fileName": "仿抖音进度条加载.md",
+            "title": "仿抖音进度条加载",
+            "subtitle": "最近在一个android学习交流群中看到有同学问仿抖音进度条加载怎么实现，刚好自己在学习自定义view，就尝试实现了一下，效果如下图，在此记录一下实现过程",
+            "createDate": "2022-06-07",
+            "updateDate": "2022-06-07",
+            "tags": "Android,View,自定义View",
+            "imagePath": "img/仿抖音进度条加载"
+        },
+        {
+            "fileName": "移动固态硬盘+Mac M1编译安卓源码,写入真机记录.md",
+            "title": "移动固态硬盘+Mac M1编译安卓源码,写入真机记录",
+            "subtitle": "移动固态硬盘+Mac M1编译安卓源码,写入真机记录",
+            "createDate": "2023-08-14",
+            "updateDate": "2023-08-15",
+            "tags": "Android,源码编译",
+            "imagePath": "img/移动固态硬盘+Mac M1编译安卓源码,写入真机记录"
+        },
+        {
+            "fileName": "打包签名相关命令.md",
+            "title": "打包签名相关命令",
+            "subtitle": "打包签名相关命令",
+            "createDate": "2022-11-16",
+            "updateDate": "2022-12-07",
+            "tags": "Android,APK打包",
+            "imagePath": "img/打包签名相关命令"
+        }
+    ],
+    "updateTime": "2023-09-19 16:11:20"
+}
